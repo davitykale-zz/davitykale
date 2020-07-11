@@ -1,10 +1,15 @@
 ### David Ressler 
 
+
 😄 Pronouns: He/Him
+
 📫 How to reach me: davidressler@hey.com
 
+
 Instagram: www.instagram.com/davidressler
+
 Twitter: www.twitter.com/davidressler
+
 LinkedIn: www.linkedin.com/in/davidcressler
 
 <!--
