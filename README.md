@@ -1,4 +1,11 @@
-### Hi there 👋
+### David Ressler 
+
+😄 Pronouns: He/Him
+📫 How to reach me: davidressler@hey.com
+
+Instagram: www.instagram.com/davidressler
+Twitter: www.twitter.com/davidressler
+LinkedIn: www.linkedin.com/in/davidcressler
 
 <!--
 **davitykale/davitykale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
