@@ -10,10 +10,10 @@ module.exports = {
   // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
   siteMetadata: {
     siteTitle: `David Ressler`,
-    siteTitleAlt: `David Ressler - Portfolio Website`,
+    siteTitleAlt: `David Ressler - Portfolio`,
     siteHeadline: `David Ressler - Portfolio`,
     siteUrl: `https://www.davidressler.com`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteDescription: `I'm a Full-Stack Developer and Engineering Manager who is passionate about the intersection of technology and equity.`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `@davitykale`,
@@ -35,9 +35,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `David Ressler - Portfolio`,
+        short_name: `David Ressler`,
+        description: `I'm a Full-Stack Developer and Engineering Manager who is passionate about the intersection of technology and equity.`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
